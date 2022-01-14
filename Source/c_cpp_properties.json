@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "BuildingEscapeEditor Editor Mac Development (BuildingEscape)",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/musehive/Desktop/C++ Dev/BuildingEscape/.vscode/compileCommands_BuildingEscape.json",
+            "cStandard": "c11",
+            "cppStandard": "c++98"
+        },
+        {
+            "name": "Mac",
+            "intelliSenseMode": "clang-x64",
+            "macFrameworkPath": [
+                "/System/Library/Frameworks",
+                "/Library/Frameworks"
+            ],
+            "compileCommands": "/Users/musehive/Desktop/C++ Dev/BuildingEscape/.vscode/compileCommands_Default.json",
+            "cStandard": "c11",
+            "cppStandard": "c++98"
+        }
+    ],
+    "version": 4
+}
