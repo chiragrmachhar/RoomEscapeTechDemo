@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BuildingEscape",
+			"Path": "/Users/musehive/Desktop/C++ Dev/BuildingEscape/Source/BuildingEscape.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BuildingEscapeEditor",
+			"Path": "/Users/musehive/Desktop/C++ Dev/BuildingEscape/Source/BuildingEscapeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
